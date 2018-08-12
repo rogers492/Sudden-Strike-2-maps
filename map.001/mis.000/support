@@ -1,0 +1,150 @@
+flag 3,60,1,12,62
+flag 64,3,1,66,13
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+
+support "Allies"
+ ID=aguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=22 
+ ID=aguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=22 
+ ID=aguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=22 
+ ID=aguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=22 
+ ID=aguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=22 
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
