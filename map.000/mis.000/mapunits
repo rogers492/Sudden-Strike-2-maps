@@ -1,3 +1,8 @@
+ ID=sdkfz.7.flak HP=75 Ammo=5 Expa=10 Morale=60 Lives=0 Grp=1 Crew=4 U=7408 V=5968 Dir=6 Owner=3 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
  ID=rsmguner HP=1 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=10 U=7432 V=4968 Dir=6 Owner=1 
  ID=rguner HP=1 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=10 U=7512 V=4984 Dir=6 Owner=1 
  ID=rguner HP=1 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=10 U=7528 V=5000 Dir=4 Owner=1 
@@ -1623,11 +1628,6 @@
  ID=dguner HP=15 Ammo=100 Expa=30 Morale=30 Lives=0 Grp=1 U=7208 V=5496 Dir=3 Owner=3 
  ID=dguner HP=15 Ammo=100 Expa=30 Morale=30 Lives=0 Grp=1 U=7096 V=5128 Dir=5 Owner=3 
  ID=dguner HP=15 Ammo=100 Expa=30 Morale=30 Lives=0 Grp=1 U=7368 V=5208 Dir=4 Owner=3 
- ID=sdkfz.7.flak HP=80 Ammo=30 Expa=10 Morale=60 Lives=0 Grp=1 Crew=4 U=7184 V=5456 Dir=2 Owner=3 
-  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
-  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
-  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
-  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
  ID=dflamer HP=80 Ammo=80 Expa=10 Morale=60 Lives=0 Grp=1 U=7608 V=5944 Dir=2 Owner=3 
  ID=dflamer HP=80 Ammo=80 Expa=10 Morale=60 Lives=0 Grp=1 U=7864 V=6024 Dir=2 Owner=3 
  ID=dflamer HP=80 Ammo=80 Expa=10 Morale=60 Lives=0 Grp=1 U=7672 V=5688 Dir=2 Owner=3 
