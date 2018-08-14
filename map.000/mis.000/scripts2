@@ -1,4 +1,4 @@
-script "Start" size 627
+script "Start" size 626
 $mist
 $END
 !
@@ -34,7 +34,7 @@ $Tr
 #2
 $strt1
 $T
-#021
+#06
 $\\n
 $strt
 $Tr
