@@ -1,3 +1,8 @@
+ ID=rsmguner HP=1 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=10 U=7432 V=4968 Dir=6 Owner=1 
+ ID=rguner HP=1 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=10 U=7512 V=4984 Dir=6 Owner=1 
+ ID=rguner HP=1 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=10 U=7528 V=5000 Dir=4 Owner=1 
+ ID=rguner HP=1 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=10 U=7352 V=4984 Dir=1 Owner=1 
+ ID=rguner HP=1 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=10 U=7432 V=5016 Dir=1 Owner=1 
  ID=rguner HP=1 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=10 U=7080 V=6072 Dir=1 Owner=1 
  ID=rguner HP=1 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=10 U=7240 V=6232 Dir=3 Owner=1 
  ID=rguner HP=1 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=10 U=7368 V=6232 Dir=5 Owner=1 
@@ -178,12 +183,9 @@
  ID=rguner HP=5 Ammo=75 Expa=10 Morale=50 Lives=0 Grp=10 U=7128 V=5288 Dir=2 Owner=1 
  ID=rguner HP=5 Ammo=75 Expa=10 Morale=50 Lives=0 Grp=10 U=7256 V=5288 Dir=2 Owner=1 
  ID=rguner HP=10 Ammo=75 Expa=10 Morale=50 Lives=0 Grp=10 U=7224 V=5272 Dir=1 Owner=1 
- ID=rguner HP=10 Ammo=75 Expa=10 Morale=50 Lives=0 Grp=10 U=7352 V=4984 Dir=1 Owner=1 
  ID=rguner HP=10 Ammo=75 Expa=10 Morale=50 Lives=0 Grp=10 U=7144 V=5128 Dir=1 Owner=1 
- ID=rguner HP=10 Ammo=75 Expa=10 Morale=50 Lives=0 Grp=10 U=7432 V=5016 Dir=1 Owner=1 
  ID=rsmguner HP=10 Ammo=75 Expa=10 Morale=50 Lives=0 Grp=10 U=7384 V=5144 Dir=1 Owner=1 
  ID=rsmguner HP=10 Ammo=75 Expa=10 Morale=50 Lives=0 Grp=10 U=7192 V=5192 Dir=0 Owner=1 
- ID=rsmguner HP=10 Ammo=75 Expa=10 Morale=50 Lives=0 Grp=10 U=7464 V=5032 Dir=0 Owner=1 
  ID=rsmguner HP=10 Ammo=75 Expa=10 Morale=50 Lives=0 Grp=10 U=7368 V=5080 Dir=0 Owner=1 
  ID=rsmguner HP=10 Ammo=75 Expa=10 Morale=50 Lives=0 Grp=10 U=7416 V=5160 Dir=0 Owner=1 
  ID=kv HP=10 Ammo=75 Expa=0 Morale=50 Lives=0 Grp=10 Crew=0 U=7184 V=5136 Dir=4 Owner=1 
@@ -1663,5 +1665,3 @@
  ID=dguner HP=80 Ammo=80 Expa=10 Morale=60 Lives=0 Grp=1 U=7800 V=5096 Dir=0 Owner=3 
  ID=53-k HP=75 Ammo=40 Expa=10 Morale=60 Lives=0 Grp=10 U=7760 V=5744 Dir=29 Owner=1 
  ID=53-k HP=75 Ammo=40 Expa=10 Morale=60 Lives=0 Grp=10 U=7824 V=5072 Dir=3 Owner=1 
- ID=rguner HP=1 Ammo=40 Expa=10 Morale=60 Lives=0 Grp=10 U=7512 V=4984 Dir=3 Owner=1 
- ID=rguner HP=1 Ammo=40 Expa=10 Morale=60 Lives=0 Grp=10 U=7528 V=5000 Dir=5 Owner=1 
