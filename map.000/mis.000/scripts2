@@ -1,4 +1,4 @@
-script "Start" size 626
+script "Start" size 782
 $mist
 $END
 !
@@ -79,6 +79,38 @@ $L
 $srfs3
 $T
 #01
+$\\n
+$srfs
+$P
+#1
+$srfs0
+$resv
+#41
+$srfs1
+$flg
+#3
+$srfs2
+$L
+#24
+$srfs3
+$T
+#084
+$\\n
+$srfs
+$P
+#1
+$srfs0
+$resv
+#51
+$srfs1
+$flg
+#3
+$srfs2
+$L
+#34
+$srfs3
+$T
+#045
 $\\n
 $app
 $P
