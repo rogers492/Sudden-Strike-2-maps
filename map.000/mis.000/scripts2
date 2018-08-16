@@ -2301,7 +2301,7 @@ $T
 $\\n
 $END
 
-script "T16-RussianAssaultFromRightFlank" size 1760
+script "T16-RussianAssaultFromRightFlank" size 1761
 $te
 $Tr
 #61
@@ -2634,16 +2634,16 @@ $P
 #1
 $srfs0
 $resv
-#1
+#21
 $srfs1
 $flg
-#3
+#1
 $srfs2
 $L
 #1
 $srfs3
 $T
-#006
+#066
 $\\n
 $srfs
 $P
