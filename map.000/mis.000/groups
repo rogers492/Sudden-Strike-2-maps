@@ -199,8 +199,8 @@ Group 49
   aiflags=
  reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
 Group 50
- ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
-  aiflags=
+ ai type="ai_tank_follow" group1=0 group2=0 zone1=0 zone2=0
+  aiflags= aif_rndtarget
  reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
 Group 51
  ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
