@@ -1,3 +1,11 @@
+ ID=aguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=776 V=3416 Dir=0 Owner=0 
+ ID=aguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=152 V=3464 Dir=0 Owner=0 
+ ID=aguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=3320 V=3608 Dir=0 Owner=0 
+ ID=aguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=3928 V=3544 Dir=0 Owner=0 
+ ID=aguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=3320 V=2360 Dir=0 Owner=0 
+ ID=aguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=3928 V=2312 Dir=0 Owner=0 
+ ID=aguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=3336 V=1160 Dir=0 Owner=0 
+ ID=aguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=3928 V=1096 Dir=0 Owner=0 
  ID=fw-189 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=3 U=272 V=496 Dir=0 Owner=0 
   ID=dpilot HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=dpilot HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
@@ -30,11 +38,6 @@
  ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2600 V=2568 Dir=0 Owner=1 
  ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2536 V=2568 Dir=0 Owner=1 
  ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2472 V=2568 Dir=0 Owner=1 
- ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2408 V=2568 Dir=0 Owner=1 
- ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2344 V=2568 Dir=0 Owner=1 
- ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2280 V=2568 Dir=0 Owner=1 
- ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2216 V=2568 Dir=0 Owner=1 
- ID=aofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2120 V=2584 Dir=0 Owner=0 
  ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=1448 V=1992 Dir=0 Owner=1 
  ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=1512 V=1992 Dir=0 Owner=1 
  ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=1576 V=1992 Dir=0 Owner=1 
@@ -76,3 +79,8 @@
   ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
  ID=eguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=20 U=2056 V=504 Dir=0 Owner=0 
  ID=eguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=20 U=2056 V=632 Dir=0 Owner=0 
+ ID=aofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2408 V=2568 Dir=0 Owner=0 
+ ID=aofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2424 V=1176 Dir=0 Owner=0 
+ ID=aofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2424 V=1144 Dir=0 Owner=0 
+ ID=aofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2456 V=1176 Dir=0 Owner=0 
+ ID=aofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2456 V=1144 Dir=0 Owner=0 
