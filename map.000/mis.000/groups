@@ -295,7 +295,7 @@ Group 73
   aiflags= aif_rndmove
  reserv auto=1 delay=0 min=0 force=0 atime=0 flag=2 zone=44 hp=100 ammo=100 expa=24 morale=60
 Group 74
- ai type="ai_sold_guard" group1=0 group2=0 zone1=43 zone2=42
+ ai type="ai_sold_guard" group1=0 group2=0 zone1=43 zone2=48
   aiflags= aif_rndmove
  reserv auto=1 delay=0 min=0 force=0 atime=0 flag=3 zone=43 hp=100 ammo=100 expa=20 morale=50
 Group 75
