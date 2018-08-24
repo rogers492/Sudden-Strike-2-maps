@@ -384,7 +384,7 @@ $T
 $\\n
 $END
 
-script "T17-TownAirRecon" size 249
+script "T17-RussianCounterAirRecon" size 249
 $te
 $Tr
 #71
@@ -443,7 +443,7 @@ $Airfieldw0
 $\\n
 $END
 
-script "T17-TownAirCover" size 233
+script "T17-RussianCounterAirCover" size 233
 $te
 $Tr
 #71
@@ -499,7 +499,7 @@ $Airfieldw0
 $\\n
 $END
 
-script "RussianArmourCounterValley" size 196
+script "RussianArmourCounterValley" size 229
 $ugl
 $CABE
 #1
@@ -539,10 +539,17 @@ $\\n
 $spz4g
 $G
 #03
+$\\n
+$strt
+$Tr
+#71
+$strt1
+$T
+#06
 $\\n
 $END
 
-script "RussianArmourCounterFarm" size 196
+script "RussianArmourCounterFarm" size 229
 $ugl
 $CABE
 #1
@@ -582,10 +589,17 @@ $\\n
 $spz4g
 $G
 #03
+$\\n
+$strt
+$Tr
+#71
+$strt1
+$T
+#51
 $\\n
 $END
 
-script "RussianArmourCounterRidge" size 196
+script "RussianArmourCounterRidge" size 229
 $ugl
 $CABE
 #1
@@ -624,6 +638,13 @@ $G
 $\\n
 $spz4g
 $G
+#03
+$\\n
+$strt
+$Tr
+#71
+$strt1
+$T
 #03
 $\\n
 $END
