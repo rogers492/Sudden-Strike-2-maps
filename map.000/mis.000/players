@@ -14,31 +14,31 @@ Player 0
   Bombs=4
   Reload=30
  plane transport
-  ID=c47
-  Number=0
-  Bombs=0
-  Reload=0
+  ID=li-2
+  Number=1
+  Bombs=1
+  Reload=60
  plane boxer
-  ID=b_c47
+  ID=b_li-2
   Number=0
-  Bombs=0
-  Reload=0
+  Bombs=1
+  Reload=120
  plane interceptor
   ID=bf-109
   Number=2
   Bombs=2
   Reload=30
  descent 0
-  group=0
-  expa=0
-  ID 0=
-  number 0=0
-  ID 1=
-  number 1=0
-  ID 2=
-  number 2=0
-  ID 3=
-  number 3=0
+  group=1
+  expa=15
+  ID 0=gats
+  number 0=2
+  ID 1=8cm.mortar
+  number 1=4
+  ID 2=dsmguner
+  number 2=10
+  ID 3=dguner
+  number 3=4
  descent 1
   group=0
   expa=0
