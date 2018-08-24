@@ -22,7 +22,9 @@ support "Allies"
  ID=aguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=22 
  ID=aguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=22 
 end
-support ""
+support "Timer-check"
+ ID=dingo.jeep HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=1 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
 end
 support ""
 end

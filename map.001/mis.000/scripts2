@@ -1,4 +1,4 @@
-script "Start" size 252
+script "Start" size 284
 $mist
 $END
 !
@@ -52,6 +52,44 @@ $Tr
 $strt1
 $T
 #09
+$\\n
+$strt
+$Tr
+#8
+$strt1
+$T
+#51
+$\\n
+$END
+
+script "T8-Periodic-test" size 126
+$te
+$Tr
+#8
+$END
+!
+$srfs
+$P
+#
+$srfs0
+$resv
+#1
+$srfs1
+$flg
+#
+$srfs2
+$L
+#8
+$srfs3
+$T
+#
+$\\n
+$sper
+$Tr
+#8
+$sper1
+$T
+#54
 $\\n
 $END
 
