@@ -6,7 +6,7 @@ $etc
 $\\n
 $scd
 $T
-#00801
+#00081
 $\\n
 $lccv
 $Lvar
@@ -848,7 +848,7 @@ $PT
 $\\n
 $END
 
-script "TownAttack" size 569
+script "TownAttack" size 709
 $gwata
 $Grp
 #07
@@ -967,9 +967,39 @@ $spto17
 $Airfieldw0
 #
 $\\n
+$srfs
+$P
+#1
+$srfs0
+$resv
+#41
+$srfs1
+$flg
+#
+$srfs2
+$L
+#64
+$srfs3
+$T
+#03
+$\\n
+$sgg1
+$G
+#05
+$sgg11
+$G
+#17
+$\\n
+$sgg2
+$G
+#05
+$sgg21
+$G
+#17
+$\\n
 $END
 
-script "RidgeAttack" size 411
+script "RidgeAttack" size 552
 $gwata
 $Grp
 #37
@@ -1051,6 +1081,36 @@ $Tr
 $strt1
 $T
 #0201
+$\\n
+$srfs
+$P
+#1
+$srfs0
+$resv
+#41
+$srfs1
+$flg
+#3
+$srfs2
+$L
+#34
+$srfs3
+$T
+#03
+$\\n
+$sgg1
+$G
+#05
+$sgg11
+$G
+#47
+$\\n
+$sgg2
+$G
+#05
+$sgg21
+$G
+#47
 $\\n
 $END
 
