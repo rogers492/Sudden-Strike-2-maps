@@ -1,3 +1,8 @@
+ ID=jguner HP=100 Ammo=100 Expa=40 Morale=20 Lives=0 Grp=91 U=1176 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=100 Expa=30 Morale=20 Lives=0 Grp=91 U=1240 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=100 Expa=20 Morale=20 Lives=0 Grp=91 U=1304 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=100 Expa=10 Morale=20 Lives=0 Grp=91 U=1368 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=100 Expa=0 Morale=20 Lives=0 Grp=91 U=1432 V=1272 Dir=0 Owner=1 
  ID=aofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2456 V=1144 Dir=0 Owner=0 
  ID=aofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2456 V=1176 Dir=0 Owner=0 
  ID=aofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2424 V=1144 Dir=0 Owner=0 
@@ -84,3 +89,20 @@
  ID=aguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=3320 V=3608 Dir=0 Owner=0 
  ID=aguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=152 V=3464 Dir=0 Owner=0 
  ID=aguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=776 V=3416 Dir=0 Owner=0 
+ ID=asmguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2328 V=1192 Dir=0 Owner=0 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=30 Lives=0 Grp=91 U=1048 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=35 Lives=0 Grp=91 U=984 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=40 Lives=0 Grp=91 U=920 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=45 Lives=0 Grp=91 U=856 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=50 Lives=0 Grp=91 U=792 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=55 Lives=0 Grp=91 U=728 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=60 Lives=0 Grp=91 U=664 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=65 Lives=0 Grp=91 U=600 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=70 Lives=0 Grp=91 U=536 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=75 Lives=0 Grp=91 U=472 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=80 Lives=0 Grp=91 U=408 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=85 Lives=0 Grp=91 U=344 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=90 Lives=0 Grp=91 U=280 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=95 Lives=0 Grp=91 U=216 V=1272 Dir=0 Owner=1 
+ ID=jguner HP=100 Ammo=0 Expa=50 Morale=100 Lives=0 Grp=91 U=168 V=1272 Dir=0 Owner=1 
+ ID=dofficer HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=0 U=1640 V=3192 Dir=0 Owner=0 

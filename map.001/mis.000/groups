@@ -119,11 +119,11 @@ Group 29
   aiflags=
  reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
 Group 30
- ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+ ai type="ai_furg_help" group1=31 group2=31 zone1=12 zone2=13
   aiflags=
  reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
 Group 31
- ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+ ai type="ai_sold_guard" group1=0 group2=0 zone1=12 zone2=12
   aiflags=
  reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
 Group 32
