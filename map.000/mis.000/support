@@ -139,32 +139,27 @@ support "Russian Infantry"
  ID=sniper HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=10 
 end
 support "Russian Armour Medium"
- ID=t-34 HP=100 Ammo=100 Expa=5 Morale=50 Lives=0 Grp=11 Crew=5 
+ ID=t-34 HP=100 Ammo=100 Expa=5 Morale=50 Lives=0 Grp=11 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=5 Morale=50 Lives=0 Grp=11 Crew=5 
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=t-34 HP=100 Ammo=100 Expa=5 Morale=50 Lives=0 Grp=11 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=5 Morale=50 Lives=0 Grp=11 Crew=5 
+ ID=t-34 HP=100 Ammo=100 Expa=5 Morale=50 Lives=0 Grp=11 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=5 Morale=50 Lives=0 Grp=11 Crew=5 
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=t-34 HP=100 Ammo=100 Expa=5 Morale=50 Lives=0 Grp=11 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=5 Morale=50 Lives=0 Grp=11 Crew=5 
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=t-34 HP=100 Ammo=100 Expa=5 Morale=50 Lives=0 Grp=11 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
@@ -431,15 +426,13 @@ support "Commander"
   ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=pzkpfw.ll HP=100 Ammo=100 Expa=10 Morale=60 Lives=0 Grp=0 Crew=4 
-  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=pzkpfw.ll HP=100 Ammo=100 Expa=10 Morale=60 Lives=0 Grp=0 Crew=3 
   ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
 end
 support "GermanArmourHeavy"
- ID=pzkpfw.ll HP=100 Ammo=100 Expa=20 Morale=60 Lives=0 Grp=0 Crew=4 
-  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=pzkpfw.ll HP=100 Ammo=100 Expa=20 Morale=60 Lives=0 Grp=0 Crew=3 
   ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
@@ -591,20 +584,17 @@ support "Medium-Recce-in-Force"
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=50 Morale=60 Lives=9 Grp=21 Crew=5 
+ ID=t-34 HP=100 Ammo=100 Expa=50 Morale=60 Lives=9 Grp=21 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=50 Morale=60 Lives=9 Grp=21 Crew=5 
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=t-34 HP=100 Ammo=100 Expa=50 Morale=60 Lives=9 Grp=21 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=50 Morale=60 Lives=9 Grp=21 Crew=5 
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=t-34 HP=100 Ammo=100 Expa=50 Morale=60 Lives=9 Grp=21 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
@@ -688,7 +678,9 @@ support "Spy"
  ID=rofficer HP=100 Ammo=0 Expa=100 Morale=50 Lives=0 Grp=0 
 end
 support "RussianArmourCounter"
- ID=tiz-am-600 HP=100 Ammo=100 Expa=60 Morale=50 Lives=9 Grp=30 
+ ID=tiz-am-600 HP=100 Ammo=100 Expa=60 Morale=50 Lives=9 Grp=30 Crew=2 
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
  ID=ba64 HP=100 Ammo=100 Expa=60 Morale=50 Lives=9 Grp=30 Crew=2 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
@@ -722,32 +714,27 @@ support "RussianArmourCounter"
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=5 
+ ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=5 
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=5 
+ ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=5 
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=5 
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
@@ -770,7 +757,9 @@ support "RussianArmourCounter"
  ID=t-70 HP=100 Ammo=100 Expa=40 Morale=50 Lives=9 Grp=30 Crew=2 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=tiz-am-600 HP=100 Ammo=100 Expa=60 Morale=50 Lives=9 Grp=30 
+ ID=tiz-am-600 HP=100 Ammo=100 Expa=60 Morale=50 Lives=9 Grp=30 Crew=2 
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
  ID=ba64 HP=100 Ammo=100 Expa=60 Morale=50 Lives=9 Grp=30 Crew=2 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
@@ -794,7 +783,9 @@ support "RussianArmourCounter"
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=tiz-am-600 HP=100 Ammo=100 Expa=60 Morale=50 Lives=9 Grp=30 
+ ID=tiz-am-600 HP=100 Ammo=100 Expa=60 Morale=50 Lives=9 Grp=30 Crew=2 
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
  ID=ba64 HP=100 Ammo=100 Expa=60 Morale=50 Lives=9 Grp=30 Crew=2 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
@@ -816,32 +807,27 @@ support "RussianArmourCounter"
  ID=t-90 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=2 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=5 
+ ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=5 
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=5 
+ ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=5 
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
- ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=5 
-  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=t-34 HP=100 Ammo=100 Expa=35 Morale=50 Lives=9 Grp=30 Crew=4 
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
