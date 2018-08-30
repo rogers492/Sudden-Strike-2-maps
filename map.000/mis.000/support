@@ -430,6 +430,96 @@ support "Commander"
   ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=aatruck HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=4 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=2597.te-ke HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=1 Crew=5 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=2597.te-ke HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=1 Crew=5 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=dsupply HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=1 Crew=2 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=opel_blitz HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=1 Crew=2 In=10 
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=opel_blitz HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=1 Crew=2 In=10 
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box.50 HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sdkfz.231-8 HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=1 Crew=4 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sdkfz.251_early HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=1 Crew=2 In=10 
+  ID=dmg42_team HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dmortar HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dmortar HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dmortar HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dfeld HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sdkfz.251_early HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=1 Crew=2 In=10 
+  ID=dmg42_team HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dmortar HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dmortar HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dmortar HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dfeld HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sdkfz.251_early HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=1 Crew=2 In=10 
+  ID=dmg42_team HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dmortar HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dmortar HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dmortar HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dfeld HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=kamikaze HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
 end
 support "GermanArmourHeavy"
  ID=pzkpfw.ll HP=100 Ammo=100 Expa=20 Morale=60 Lives=0 Grp=0 Crew=3 
