@@ -61,12 +61,11 @@
  ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=1640 V=2568 Dir=0 Owner=1 
  ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=1704 V=2568 Dir=0 Owner=1 
  ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=1768 V=2568 Dir=0 Owner=1 
- ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=1832 V=2568 Dir=0 Owner=1 
+ ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=1832 V=2568 Dir=0 Owner=0 
  ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=1896 V=2568 Dir=0 Owner=1 
  ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=1960 V=2568 Dir=0 Owner=1 
  ID=jofficer HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=2024 V=2568 Dir=0 Owner=1 
- ID=daimler.mkl HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=9 Crew=3 U=1008 V=1936 Dir=0 Owner=2 
-  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=daimler.mkl HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=9 Crew=2 U=1008 V=1936 Dir=0 Owner=2 
   ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
  ID=jguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=10 U=2424 V=280 Dir=0 Owner=1 
@@ -106,3 +105,5 @@
  ID=jguner HP=100 Ammo=0 Expa=50 Morale=95 Lives=0 Grp=91 U=216 V=1272 Dir=0 Owner=1 
  ID=jguner HP=100 Ammo=0 Expa=50 Morale=100 Lives=0 Grp=91 U=168 V=1272 Dir=0 Owner=1 
  ID=dofficer HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=0 U=1640 V=3192 Dir=0 Owner=0 
+ ID=esmguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2616 V=3864 Dir=0 Owner=0 
+ ID=esmguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3864 V=216 Dir=0 Owner=0 
