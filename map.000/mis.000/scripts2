@@ -1,4 +1,4 @@
-script "Start" size 816
+script "Start" size 817
 $mist
 $END
 !
@@ -20,7 +20,7 @@ $Tr
 #
 $strt1
 $T
-#06
+#021
 $\\n
 $strt
 $Tr
@@ -2048,7 +2048,7 @@ $Airfieldw0
 $\\n
 $END
 
-script "T1-GermanReinforcements" size 259
+script "T1-GermanReinforcements" size 258
 $te
 $Tr
 #1
@@ -2070,7 +2070,7 @@ $L
 #1
 $srfs3
 $T
-#081
+#06
 $\\n
 $srfs
 $P
