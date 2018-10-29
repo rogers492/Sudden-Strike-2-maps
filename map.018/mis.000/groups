@@ -199,7 +199,7 @@ Group 49
   aiflags=
  reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
 Group 50
- ai type="ai_tank_guard" group1=0 group2=0 zone1=42 zone2=42
+ ai type="ai_tank_guard" group1=0 group2=0 zone1=42 zone2=43
   aiflags= aif_rndmove
  reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
 Group 51

@@ -1,4 +1,4 @@
-flag -1,-1,0,-1,-1
+flag 252,20,1,202,25
 flag -1,-1,0,-1,-1
 flag -1,-1,0,-1,-1
 flag -1,-1,0,-1,-1
@@ -15,7 +15,10 @@ flag -1,-1,0,-1,-1
 flag -1,-1,0,-1,-1
 flag -1,-1,0,-1,-1
 
-support ""
+support "Trucks"
+ ID=type1.kho-ki HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=63 Crew=2 
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
 end
 support ""
 end
