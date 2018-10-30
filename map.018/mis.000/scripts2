@@ -1128,6 +1128,32 @@ $T
 $\\n
 $END
 
+script "T19-GermanArmouredColumn" size 108
+$te
+$Tr
+#91
+$END
+!
+$etc
+$\\n
+$srfs
+$P
+#
+$srfs0
+$resv
+#43
+$srfs1
+$flg
+#9
+$srfs2
+$L
+#92
+$srfs3
+$T
+#
+$\\n
+$END
+
 script "GermansAdvance" size 151
 $upl
 $CABE
@@ -2466,7 +2492,7 @@ $T
 $\\n
 $END
 
-script "Depot52Captured" size 163
+script "Depot52Captured=>T19" size 197
 $upl
 $CABE
 #1
@@ -2502,6 +2528,13 @@ $Tr
 $strt1
 $T
 #003
+$\\n
+$strt
+$Tr
+#91
+$strt1
+$T
+#063
 $\\n
 $END
 
