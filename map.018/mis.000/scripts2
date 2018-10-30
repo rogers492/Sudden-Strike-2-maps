@@ -475,16 +475,16 @@ $phrs
 $\\n
 $END
 
-script "SuppliesFor-59m" size 201
+script "Fuel-level-20" size 201
 $vic
 $Lvar
-#1043847412
+#6933847412
 $sp_p
 $CABE
 #
 $sp_q
 $Rvar
-#95
+#02
 $&
 $vic
 $Lvar
@@ -514,16 +514,16 @@ $phrs
 $\\n
 $END
 
-script "SuppliesFor-49m" size 201
+script "Fuel-level-16" size 201
 $vic
 $Lvar
-#1043847412
+#6933847412
 $sp_p
 $CABE
 #
 $sp_q
 $Rvar
-#94
+#61
 $&
 $vic
 $Lvar
@@ -553,16 +553,16 @@ $phrs
 $\\n
 $END
 
-script "SuppliesFor-39m" size 201
+script "Fuel-level-12" size 201
 $vic
 $Lvar
-#1043847412
+#6933847412
 $sp_p
 $CABE
 #
 $sp_q
 $Rvar
-#93
+#21
 $&
 $vic
 $Lvar
@@ -592,16 +592,16 @@ $phrs
 $\\n
 $END
 
-script "SuppliesFor-29m" size 201
+script "Fuel-level-8" size 200
 $vic
 $Lvar
-#1043847412
+#6933847412
 $sp_p
 $CABE
 #
 $sp_q
 $Rvar
-#92
+#8
 $&
 $vic
 $Lvar
@@ -631,16 +631,16 @@ $phrs
 $\\n
 $END
 
-script "SuppliesFor-19m" size 201
+script "Fuel-level-4" size 200
 $vic
 $Lvar
-#1043847412
+#6933847412
 $sp_p
 $CABE
 #
 $sp_q
 $Rvar
-#91
+#4
 $&
 $vic
 $Lvar
@@ -1410,63 +1410,63 @@ $Lvar
 #3933847412
 $lccv1
 $Rvar
-#02
+#52
 $\\n
 $lccv
 $Lvar
 #4933847412
 $lccv1
 $Rvar
-#52
+#03
 $\\n
 $lccv
 $Lvar
 #5933847412
 $lccv1
 $Rvar
-#03
+#53
 $\\n
 $lccv
 $Lvar
 #6933847412
 $lccv1
 $Rvar
-#53
+#04
 $\\n
 $lccv
 $Lvar
 #7933847412
 $lccv1
 $Rvar
-#04
+#54
 $\\n
 $lccv
 $Lvar
 #8933847412
 $lccv1
 $Rvar
-#54
+#05
 $\\n
 $lccv
 $Lvar
 #9933847412
 $lccv1
 $Rvar
-#05
+#55
 $\\n
 $lccv
 $Lvar
 #0043847412
 $lccv1
 $Rvar
-#55
+#06
 $\\n
 $lccv
 $Lvar
 #1043847412
 $lccv1
 $Rvar
-#06
+#56
 $\\n
 $lccv
 $Lvar
@@ -3813,7 +3813,7 @@ $G
 $\\n
 $END
 
-script "Grp-A4-OutOfFuel" size 195
+script "Grp-A4-OutOfFuel" size 210
 $vic
 $Lvar
 #6933847412
@@ -3847,6 +3847,10 @@ $Percent
 $safuig1
 $G
 #4
+$\\n
+$tm
+$F
+#2
 $\\n
 $END
 
@@ -3998,7 +4002,7 @@ $G
 $\\n
 $END
 
-script "Grp-A9-OutOfFuel" size 210
+script "Grp-A9-OutOfFuel" size 195
 $vic
 $Lvar
 #1043847412
@@ -4032,10 +4036,6 @@ $Percent
 $safuig1
 $G
 #9
-$\\n
-$tm
-$F
-#2
 $\\n
 $END
 
