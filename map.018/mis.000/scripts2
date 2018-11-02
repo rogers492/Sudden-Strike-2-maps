@@ -1409,7 +1409,7 @@ $T
 $\\n
 $END
 
-script "T2-FuelDrainAndResupplyInitialize" size 558
+script "T2-FuelDrainAndResupplyInitialize" size 592
 $te
 $Tr
 #2
@@ -1430,6 +1430,13 @@ $Tr
 $strt1
 $T
 #06
+$\\n
+$strt
+$Tr
+#43
+$strt1
+$T
+#003
 $\\n
 $lccv
 $Lvar
@@ -1708,7 +1715,7 @@ $Rvar
 $\\n
 $END
 
-script "T55-TrucksToDepot55" size 294
+script "T55-TrucksToDepot55" size 260
 $te
 $Tr
 #55
@@ -1759,16 +1766,9 @@ $strt1
 $T
 #009
 $\\n
-$strt
-$Tr
-#52
-$strt1
-$T
-#081
-$\\n
 $END
 
-script "T65-TrucksToDepot55" size 294
+script "T65-TrucksToDepot55" size 260
 $te
 $Tr
 #56
@@ -1819,16 +1819,9 @@ $strt1
 $T
 #009
 $\\n
-$strt
-$Tr
-#52
-$strt1
-$T
-#081
-$\\n
 $END
 
-script "T75-TrucksToDepot55" size 294
+script "T75-TrucksToDepot55" size 260
 $te
 $Tr
 #57
@@ -1878,13 +1871,6 @@ $Tr
 $strt1
 $T
 #009
-$\\n
-$strt
-$Tr
-#52
-$strt1
-$T
-#081
 $\\n
 $END
 
@@ -1987,7 +1973,7 @@ $T
 $\\n
 $END
 
-script "T54-TrucksToDepot54" size 294
+script "T54-TrucksToDepot54" size 260
 $te
 $Tr
 #45
@@ -2038,16 +2024,9 @@ $strt1
 $T
 #009
 $\\n
-$strt
-$Tr
-#52
-$strt1
-$T
-#081
-$\\n
 $END
 
-script "T64-TrucksToDepot54" size 294
+script "T64-TrucksToDepot54" size 260
 $te
 $Tr
 #46
@@ -2098,16 +2077,9 @@ $strt1
 $T
 #009
 $\\n
-$strt
-$Tr
-#52
-$strt1
-$T
-#081
-$\\n
 $END
 
-script "T74-TrucksToDepot54" size 294
+script "T74-TrucksToDepot54" size 260
 $te
 $Tr
 #47
@@ -2157,13 +2129,6 @@ $Tr
 $strt1
 $T
 #009
-$\\n
-$strt
-$Tr
-#52
-$strt1
-$T
-#081
 $\\n
 $END
 
@@ -2213,7 +2178,7 @@ $T
 $\\n
 $strt
 $Tr
-#52
+#42
 $strt1
 $T
 #081
@@ -2259,7 +2224,7 @@ $T
 $\\n
 $END
 
-script "T53-TrucksToDepot53" size 294
+script "T53-TrucksToDepot53" size 260
 $te
 $Tr
 #35
@@ -2310,16 +2275,9 @@ $strt1
 $T
 #009
 $\\n
-$strt
-$Tr
-#52
-$strt1
-$T
-#081
-$\\n
 $END
 
-script "T63-TrucksToDepot53" size 294
+script "T63-TrucksToDepot53" size 260
 $te
 $Tr
 #36
@@ -2370,16 +2328,9 @@ $strt1
 $T
 #009
 $\\n
-$strt
-$Tr
-#52
-$strt1
-$T
-#081
-$\\n
 $END
 
-script "T73-TrucksToDepot53" size 294
+script "T73-TrucksToDepot53" size 260
 $te
 $Tr
 #37
@@ -2429,13 +2380,6 @@ $Tr
 $strt1
 $T
 #009
-$\\n
-$strt
-$Tr
-#52
-$strt1
-$T
-#081
 $\\n
 $END
 
@@ -2485,7 +2429,7 @@ $T
 $\\n
 $strt
 $Tr
-#52
+#32
 $strt1
 $T
 #081
@@ -2538,7 +2482,7 @@ $T
 $\\n
 $END
 
-script "T52-TrucksToDepot52" size 294
+script "T52-TrucksToDepot52" size 260
 $te
 $Tr
 #25
@@ -2589,16 +2533,9 @@ $strt1
 $T
 #009
 $\\n
-$strt
-$Tr
-#52
-$strt1
-$T
-#081
-$\\n
 $END
 
-script "T62-TrucksToDepot52" size 294
+script "T62-TrucksToDepot52" size 260
 $te
 $Tr
 #26
@@ -2649,16 +2586,9 @@ $strt1
 $T
 #009
 $\\n
-$strt
-$Tr
-#52
-$strt1
-$T
-#081
-$\\n
 $END
 
-script "T72-TrucksToDepot52" size 294
+script "T72-TrucksToDepot52" size 260
 $te
 $Tr
 #27
@@ -2708,13 +2638,6 @@ $Tr
 $strt1
 $T
 #009
-$\\n
-$strt
-$Tr
-#52
-$strt1
-$T
-#081
 $\\n
 $END
 
@@ -2764,7 +2687,7 @@ $T
 $\\n
 $strt
 $Tr
-#52
+#22
 $strt1
 $T
 #081
@@ -4265,13 +4188,20 @@ $T
 $\\n
 $END
 
-script "T7-ReinforceTownInner" size 182
+script "T7-ReinforceTownInner" size 217
 $te
 $Tr
 #7
 $END
 !
 $etc
+$\\n
+$strt
+$Tr
+#99
+$strt1
+$T
+#0063
 $\\n
 $srfs
 $P
@@ -4304,6 +4234,237 @@ $L
 $srfs3
 $T
 #
+$\\n
+$END
+
+script "T99-VictoryCountdown" size 1027
+$te
+$Tr
+#99
+$&
+$ug
+$UMSK
+#9
+$ug1
+$Grp
+#03
+$sp_8
+$CABE
+#2
+$sp_9
+$N1
+#8
+$&
+$ug
+$UMSK
+#9
+$ug1
+$Grp
+#13
+$sp_8
+$CABE
+#2
+$sp_9
+$N1
+#8
+$&
+$ug
+$UMSK
+#9
+$ug1
+$Grp
+#23
+$sp_8
+$CABE
+#2
+$sp_9
+$N1
+#8
+$&
+$ug
+$UMSK
+#9
+$ug1
+$Grp
+#33
+$sp_8
+$CABE
+#2
+$sp_9
+$N1
+#8
+$&
+$ug
+$UMSK
+#9
+$ug1
+$Grp
+#43
+$sp_8
+$CABE
+#2
+$sp_9
+$N1
+#8
+$&
+$ug
+$UMSK
+#9
+$ug1
+$Grp
+#53
+$sp_8
+$CABE
+#2
+$sp_9
+$N1
+#8
+$&
+$ug
+$UMSK
+#9
+$ug1
+$Grp
+#63
+$sp_8
+$CABE
+#2
+$sp_9
+$N1
+#8
+$&
+$ug
+$UMSK
+#9
+$ug1
+$Grp
+#73
+$sp_8
+$CABE
+#2
+$sp_9
+$N1
+#8
+$&
+$ug
+$UMSK
+#9
+$ug1
+$Grp
+#83
+$sp_8
+$CABE
+#2
+$sp_9
+$N1
+#8
+$&
+$ug
+$UMSK
+#9
+$ug1
+$Grp
+#93
+$sp_8
+$CABE
+#2
+$sp_9
+$N1
+#8
+$END
+!
+$strt
+$Tr
+#89
+$strt1
+$T
+#006
+$\\n
+$sp
+$phrs
+#41
+$\\n
+$kuogtf
+$G
+#93
+$kuogtf1
+$flg
+#6
+$\\n
+$kuogtf
+$G
+#83
+$kuogtf1
+$flg
+#6
+$\\n
+$kuogtf
+$G
+#73
+$kuogtf1
+$flg
+#6
+$\\n
+$kuogtf
+$G
+#63
+$kuogtf1
+$flg
+#7
+$\\n
+$kuogtf
+$G
+#53
+$kuogtf1
+$flg
+#7
+$\\n
+$kuogtf
+$G
+#43
+$kuogtf1
+$flg
+#7
+$\\n
+$kuogtf
+$G
+#33
+$kuogtf1
+$flg
+#7
+$\\n
+$kuogtf
+$G
+#23
+$kuogtf1
+$flg
+#7
+$\\n
+$kuogtf
+$G
+#13
+$kuogtf1
+$flg
+#6
+$\\n
+$kuogtf
+$G
+#03
+$kuogtf1
+$flg
+#6
+$\\n
+$END
+
+script "T98-Victory" size 39
+$te
+$Tr
+#89
+$END
+!
+$tm
+$F
+#1
 $\\n
 $END
 
