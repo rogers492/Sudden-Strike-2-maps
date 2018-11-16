@@ -1,3 +1,4 @@
+ ID=cow HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=98 U=3672 V=1240 Dir=0 Owner=3 
  ID=rguner HP=100 Ammo=100 Expa=5 Morale=50 Lives=0 Grp=80 U=6456 V=424 Dir=0 Owner=1 
  ID=rguner HP=100 Ammo=100 Expa=5 Morale=50 Lives=0 Grp=80 U=6248 V=728 Dir=0 Owner=1 
  ID=rguner HP=100 Ammo=100 Expa=5 Morale=50 Lives=0 Grp=80 U=5896 V=1032 Dir=0 Owner=1 
@@ -1098,38 +1099,15 @@
  ID=rguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=80 U=3592 V=1560 Dir=0 Owner=1 
  ID=rguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=80 U=3800 V=1656 Dir=0 Owner=1 
  ID=rguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=80 U=3640 V=1512 Dir=0 Owner=1 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3528 V=1848 Dir=0 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3448 V=1896 Dir=0 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3528 V=1976 Dir=0 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3400 V=2024 Dir=0 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3368 V=2008 Dir=0 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3432 V=2072 Dir=2 Owner=3 
  ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3560 V=1960 Dir=2 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3432 V=1784 Dir=2 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3560 V=1832 Dir=2 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3464 V=2040 Dir=4 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3432 V=1976 Dir=4 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3512 V=1896 Dir=4 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3464 V=1832 Dir=6 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3400 V=2056 Dir=6 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3400 V=1992 Dir=6 Owner=3 
  ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3512 V=2008 Dir=6 Owner=3 
  ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3560 V=1896 Dir=0 Owner=3 
  ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3464 V=1960 Dir=0 Owner=3 
  ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3400 V=1928 Dir=7 Owner=3 
  ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3400 V=1816 Dir=6 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3480 V=2008 Dir=5 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3368 V=1928 Dir=4 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3352 V=1976 Dir=3 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3416 V=1880 Dir=2 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3464 V=1848 Dir=1 Owner=3 
  ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3480 V=1784 Dir=0 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3544 V=2008 Dir=7 Owner=3 
  ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3576 V=1768 Dir=6 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3560 V=1800 Dir=5 Owner=3 
- ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3528 V=1816 Dir=4 Owner=3 
  ID=cow HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3432 V=1848 Dir=3 Owner=3 
- ID=civilian2 HP=100 Ammo=100 Expa=0 Morale=25 Lives=0 Grp=98 U=3480 V=1944 Dir=3 Owner=3 
  ID=zis-2 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=80 In=2 U=4112 V=2832 Dir=0 Owner=1 
   ID=rguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
   ID=rguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
