@@ -3665,21 +3665,30 @@ support "German-Inf-Platoon-Heavy-Assault"
  ID=dmortar HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
  ID=dmortar HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
  ID=dmg42_team HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
- ID=dguner HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
- ID=dguner HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
- ID=dguner HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
  ID=dmg42_team HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
- ID=dguner HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
- ID=dguner HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
- ID=dguner HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
  ID=dmg42_team HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
  ID=cmedic HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
- ID=dguner HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
- ID=dguner HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
  ID=dmg42_team HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
  ID=dflamer HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
  ID=gats HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
- ID=dsmg_at HP=100 Ammo=100 Expa=15 Morale=75 Lives=5 Grp=0 
+ ID=dss_officer HP=100 Ammo=100 Expa=25 Morale=50 Lives=5 Grp=0 
+ ID=dscharfuerer HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=dsnipere HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=dss_mg34 HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=dss2 HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=rss HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=rss HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=rss HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=dscharfuerer HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=dsnipere HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=dss_mg34 HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=dss2 HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=dss2 HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=rss HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=rss HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=rss HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=dsnipere HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
+ ID=dsnipere HP=100 Ammo=100 Expa=15 Morale=50 Lives=5 Grp=0 
 end
 support ""
 end
